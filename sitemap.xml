@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>None./</loc>
-        <lastmod>2025-01-10</lastmod>
+        <lastmod>2025-01-12</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
+        <loc>Noneguiding/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneguiding/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/guiding/"/>
+    </url>
+    <url>
+        <loc>Noneguiding/zs/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneguiding/zs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/guiding/zs/"/>
+    </url>
+    <url>
         <loc>Noneen/</loc>
-        <lastmod>2025-01-10</lastmod>
+        <lastmod>2025-01-12</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
+    </url>
+    <url>
+        <loc>Noneen/guiding/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/guiding/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneguiding/"/>
+    </url>
+    <url>
+        <loc>Noneen/guiding/zs/</loc>
+        <lastmod>2025-01-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/guiding/zs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneguiding/zs/"/>
     </url>
 </urlset>
